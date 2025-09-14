@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.2",
+    "dotenv": "^17.2.2",
+    "node-fetch": "^3.3.2",
+    "openai": "^5.20.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
